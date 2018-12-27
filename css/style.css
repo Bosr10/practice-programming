@@ -1,0 +1,175 @@
+body {
+    font-family: sans-serif;
+    width: 100%;
+    left: 0;
+    right: 0;
+    margin: 0px;
+}
+
+form label {
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+
+form input {
+    margin-top: 10px;
+    height: 34px;
+    width: 180px;
+    border-radius: 999px;
+    border-style: solid;
+    border-color: tomato;
+    padding-left: 20px;
+    color: tomato;
+    font-size: 11px;
+}
+
+form button {
+    height: 37px;
+    width: 100px;
+    border-radius: 999px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white;
+    background-color: tomato;
+    margin-left: -40px;
+    border: 2px;
+    border-style: solid;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: white;
+    color: tomato;
+    border: 0px;
+}
+
+form {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+    background-color: tomato;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+/*Hoeveel vingers steek ik op?*/
+
+.hoeveelvingers {
+    text-align: center;
+}
+
+#form {
+    display: block;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#gok {
+    display: block;
+    margin: auto;
+    width: 64px;
+    height: 64px;
+    border: 2px;
+    border-color: tomato;
+    border-style: solid;
+    border-radius: 999px;
+    font-weight: 700;
+    color: white;
+    background-color: tomato;
+    text-transform: uppercase;
+}
+
+#antwoord {
+    text-align: center;
+    font-size: 10px;
+    border: 1px;
+    border-style: solid;
+    border-color: tomato;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: darkslategray;
+}
+
+#steen {
+    padding-top: 100px;
+    display: block;
+    margin: auto;
+}
+
+#dobbelsteen {
+    text-align: center;
+    font-size: 10px;
+    border: 1px;
+    border-style: solid;
+    border-color: tomato;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: darkslategray;
+}
+
+.img {
+    padding-top: 100px;
+    display: block;
+    margin: auto;
+}
+
+#geluk {
+    text-align: center;
+    font-size: 10px;
+    border: 1px;
+    border-style: solid;
+    border-color: tomato;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: darkslategray;
+}
+
+#button1 {
+    display: block;
+    margin: auto;
+    width: 64px;
+    height: 64px;
+    border: 2px;
+    border-color: tomato;
+    border-style: solid;
+    border-radius: 999px;
+    font-weight: 700;
+    color: white;
+    background-color: tomato;
+    text-transform: uppercase;
+}
+
+.uitslag {
+    text-align: center;
+    margin-bottom: 0px;
+    color: tomato;
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+
+img {
+    max-height: 150px;
+}
+
+#drinken {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 30px;
+    color: tomato;
+}
